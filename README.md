@@ -202,7 +202,7 @@ Terraform successfully provisioned the Azure infrastructure.
 Azure Resource Group containing all deployed resources.
 
 <p align="center">
-<img src="./screenshots/azure-resource-group.png" width="95%">
+<img src="./screenshots/resource-group.png" width="95%">
 </p>
 
 ---
@@ -222,7 +222,7 @@ Windows Server 2022 Virtual Machine deployed successfully.
 Website successfully hosted on IIS.
 
 <p align="center">
-<img src="./screenshots/website-homepage.png" width="95%">
+<img src="./screenshots/website homepage.png" width="95%">
 </p>
 
 ---
