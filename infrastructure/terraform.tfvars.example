@@ -1,0 +1,11 @@
+subscription_id = "3ef36202-2dd6-4236-9eba-59d615eb46b8"
+
+admin_username = "azureserver"
+
+admin_password = "J10a10@!12345"
+
+allowed_rdp_source = "212.65.104.127/32"
+
+company_name = "CloudNorth Technologies"
+
+environment = "Development"

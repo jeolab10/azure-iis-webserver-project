@@ -1,0 +1,35 @@
+# Terraform working directory
+.terraform/
+
+# Terraform state files
+*.tfstate
+*.tfstate.*
+
+# Terraform lock file (keep this if collaborating)
+# !.terraform.lock.hcl
+
+# Terraform plan files
+*.tfplan
+tfplan
+
+# Variable files containing secrets
+terraform.tfvars
+*.auto.tfvars
+
+# Crash logs
+crash.log
+
+# Sensitive files
+*.pem
+*.key
+*.pfx
+.env
+
+# Visual Studio Code settings
+.vscode/
+
+# Windows
+Thumbs.db
+
+# macOS
+.DS_Store
