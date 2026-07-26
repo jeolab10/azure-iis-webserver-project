@@ -222,7 +222,7 @@ Windows Server 2022 Virtual Machine deployed successfully.
 Website successfully hosted on IIS.
 
 <p align="center">
-<img src="./screenshots/website homepage.png" width="95%">
+<img src="./screenshots/website-homepage.png" width="95%">
 </p>
 
 ---
